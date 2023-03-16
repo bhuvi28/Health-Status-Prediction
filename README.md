@@ -1,4 +1,4 @@
-### Health Status Prediction
+# Health Status Prediction
 
 Obesity is a major health concern worldwide and is linked to various health problems. In this paper, we propose a machine learning-based health status prediction tool that predicts a person's health status based on their obesity level, which is predicted using their height and weight.
 
