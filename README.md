@@ -1,13 +1,13 @@
-Health Status Prediction
+### Health Status Prediction
 
 Obesity is a major health concern worldwide and is linked to various health problems. In this paper, we propose a machine learning-based health status prediction tool that predicts a person's health status based on their obesity level, which is predicted using their height and weight.
 
-What It Does 
+## What It Does 
 The tool uses a supervised machine learning algorithm to predict the obesity level of an individual based on their height and weight. The obesity level is then used to predict their health status using a classification algorithm. The tool is designed to take into account various factors such as age, gender, and lifestyle habits that may affect the accuracy of the predictions.
 To develop and evaluate the tool, we used a dataset of individuals with varying health statuses and measured their height, weight, and other relevant factors. The results demonstrate that our tool is highly accurate in predicting obesity and health status, with an accuracy of over 90%.
 In conclusion, our ML-based health status prediction tool can provide valuable insights into an individual's health status based on their obesity level, which is predicted using their height and weight. This tool has the potential to aid healthcare professionals in making informed decisions about patient care and could ultimately lead to better health outcomes for individuals.
 
-How I built it : 
+## How I built it : 
 
 ✅First I Import libraries
 
@@ -20,11 +20,11 @@ How I built it :
 ✅Train the model using Intel OneAPI to get better results and faster computation(Intel oneAPI)
 intel
 
+✅Save the model
+
 **Accuracy - 91.0%**
 
-
-✅Save the model
-What I learned 
+## What I learned 
 
 ✅Understanding of the data: You would have learned how to preprocess and clean the data, as well as how to handle missing values and categorical variables. You may also have conducted exploratory data analysis to gain insights into the relationships between the variables.
 
