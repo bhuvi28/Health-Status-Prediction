@@ -9,9 +9,13 @@ In conclusion, our ML-based health status prediction tool can provide valuable i
 
 How I built it 
 ✅First I Import libraries
+
 ✅Understand the data
+
 ✅Create a Correlation and visualize it
+
 ✅Test Models and find the best model it
+
 ✅Train the model using Intel OneAPI to get better results and faster computation(Intel oneAPI)
 intel
 
