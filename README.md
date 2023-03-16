@@ -7,7 +7,8 @@ The tool uses a supervised machine learning algorithm to predict the obesity lev
 To develop and evaluate the tool, we used a dataset of individuals with varying health statuses and measured their height, weight, and other relevant factors. The results demonstrate that our tool is highly accurate in predicting obesity and health status, with an accuracy of over 90%.
 In conclusion, our ML-based health status prediction tool can provide valuable insights into an individual's health status based on their obesity level, which is predicted using their height and weight. This tool has the potential to aid healthcare professionals in making informed decisions about patient care and could ultimately lead to better health outcomes for individuals.
 
-How I built it 
+How I built it : 
+
 ✅First I Import libraries
 
 ✅Understand the data
@@ -19,7 +20,7 @@ How I built it
 ✅Train the model using Intel OneAPI to get better results and faster computation(Intel oneAPI)
 intel
 
- Accuracy - 91.0%
+**Accuracy - 91.0%**
 
 
 ✅Save the model
